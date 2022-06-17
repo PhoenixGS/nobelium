@@ -3,7 +3,7 @@ const BLOG = {
   author: 'PhoenixGS',
   email: 'thestarrydream@gmail.com',
   link: 'https://www.phoenixgs.cn',
-  description: 'This gonna be an awesome website.',
+  description: 'Don\'t let the muggles get you down.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
